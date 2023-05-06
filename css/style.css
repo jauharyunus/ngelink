@@ -2695,7 +2695,7 @@ ul {
   font-size: 16px;
   font-weight: 700;
   letter-spacing: 2px;
-  color: #ff3368;
+  color: #0EA900;
   position: absolute;
   left: 50px;
   bottom: 60px;
@@ -2710,7 +2710,7 @@ ul {
 /* line 61, ../../01 cl html template/03_jun 2019/188_Aranoz shop_html/sass/_feature_part.scss */
 .feature_part .single_feature_post_text .feature_btn i {
   font-weight: 12px;
-  color: #ff3368;
+  color: #0EA900;
   margin-left: 6px;
 }
 
